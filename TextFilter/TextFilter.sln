@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextFilter", "TextFilter.csproj", "{A05DFCD7-B9CA-4212-94A7-0E66A8F770A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextFilterNUnitTests", "..\TextFilterNUnitTests\TextFilterNUnitTests.csproj", "{D5FF8735-F916-4542-B84F-B9717A853221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05DFCD7-B9CA-4212-94A7-0E66A8F770A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05DFCD7-B9CA-4212-94A7-0E66A8F770A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05DFCD7-B9CA-4212-94A7-0E66A8F770A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05DFCD7-B9CA-4212-94A7-0E66A8F770A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FF8735-F916-4542-B84F-B9717A853221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FF8735-F916-4542-B84F-B9717A853221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FF8735-F916-4542-B84F-B9717A853221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FF8735-F916-4542-B84F-B9717A853221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC99A354-3465-410A-8F5D-74AA67C3A841}
+	EndGlobalSection
+EndGlobal
